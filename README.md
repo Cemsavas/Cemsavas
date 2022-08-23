@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cemsavas
 - 👀 I’m interested in Android developing
-- 👀 I'm publishing my own developed apps on Play Store
+- 👀 I'm developing and publishing my own apps on Play Store
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Mail: cemsavas1986@hotmail.com 
