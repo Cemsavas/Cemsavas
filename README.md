@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Cemsavas
+- 👋 Hi, I’m Cem savas
 - 👀 I’m interested in Android developing
 - 👀 I'm developing and publishing my own apps on Play Store
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Mail: cemsavas1986@hotmail.com 
+
 
 <!---
 Cemsavas/Cemsavas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
