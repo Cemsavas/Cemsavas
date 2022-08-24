@@ -20,10 +20,6 @@
 
     🥇Güneş Paneli Hesapla (PRO)🥇
     
-    ***Play Store Link = t.ly/agCR
-    
-    ![Adsız-1](https://user-images.githubusercontent.com/88722745/186404625-3321c65b-554c-467e-9a0e-f2012a799706.png)
-
  
 
 <!---
