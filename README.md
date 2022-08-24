@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Cem savas
 - 👀 I’m interested in Android developing
-- ✒ I'm Electrical & Electronics Engineer
+- 📝 I'm Electrical & Electronics Engineer
 - 👔 I'm developing and publishing my own apps on Play Store
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on companies who need android developer
+- 👨‍👩‍👦 I love spending time with my family
 - 📫 How to reach me Mail: cemsavas1986@hotmail.com 
 
 **********************************************************************
@@ -17,6 +18,11 @@
 ![Adsız3](https://user-images.githubusercontent.com/88722745/186403331-10801d51-04a7-4db2-8552-ba76ea7fc41e.png)
 
 
+    🥇Güneş Paneli Hesapla (PRO)🥇
+    
+    ***Play Store Link = t.ly/agCR
+    
+    ![Adsız-1](https://user-images.githubusercontent.com/88722745/186404625-3321c65b-554c-467e-9a0e-f2012a799706.png)
 
  
 
