@@ -14,7 +14,8 @@
     
     ***Play Store Link = t.ly/8K4R
     
-    ![Adsız-1](https://user-images.githubusercontent.com/88722745/186402306-6cd247af-9170-4ca5-bc7d-9b20d65656f4.png)
+![Adsız3](https://user-images.githubusercontent.com/88722745/186403331-10801d51-04a7-4db2-8552-ba76ea7fc41e.png)
+
 
 
  
