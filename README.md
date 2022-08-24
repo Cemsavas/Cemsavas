@@ -17,8 +17,6 @@
     
 ![Adsız3](https://user-images.githubusercontent.com/88722745/186403331-10801d51-04a7-4db2-8552-ba76ea7fc41e.png)
 
-
-    🥇Güneş Paneli Hesapla (PRO)🥇
     
  
 
