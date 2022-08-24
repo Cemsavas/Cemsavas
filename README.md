@@ -13,14 +13,14 @@
 
     🥇Güneş Paneli Hesapla🥇
     
-    ***Play Store Link = t.ly/8K4R
+    ***Play Store Link = https://t.ly/8K4R 
     
 ![Adsız3](https://user-images.githubusercontent.com/88722745/186403331-10801d51-04a7-4db2-8552-ba76ea7fc41e.png)
 
     
     🥇Güneş Paneli Hesapla (PRO)🥇
     
-   ***Play Store Link = t.ly/jigE
+   ***Play Store Link = https://t.ly/jigE
    
    ![Adsız4 - Kopya](https://user-images.githubusercontent.com/88722745/186419031-a7dd2d98-9e5b-4908-b28c-ca805f8f7cb3.png)
 
