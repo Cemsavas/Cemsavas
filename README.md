@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cem savas
 - 👀 I’m interested in Android developing
-- 📝 I'm Electrical & Electronics Engineer
+- ✍ I'm Electrical & Electronics Engineer
 - 👔 I'm developing and publishing my own apps on Play Store
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on companies who need android developer
