@@ -23,9 +23,7 @@
 
   <h3 align="left"> 📱Here are My Apps </h3>
   
-  <h4 align="left"> 📱Here are My Apps </h4>
-
-    🥇Güneş Paneli Hesapla🥇
+  <h4 align="left"> 🥇Güneş Paneli Hesapla🥇</h4> 
     
     ***Google Play Store Link = https://t.ly/8K4R 
     
