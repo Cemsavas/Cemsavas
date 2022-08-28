@@ -7,6 +7,8 @@
 - 👨‍👩‍👦 I love spending time with my family
 - 📫 How to reach me Mail: cemsavas1986@hotmail.com 
 
+img align="right" alt="Coding" width="400" src="https://sk.pinterest.com/pin/523684262929108886/"
+
 **********************************************************************
 
 - 📱 Here are My Apps On Play Store
