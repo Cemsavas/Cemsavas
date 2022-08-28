@@ -41,13 +41,13 @@
    
    <img width="200" src="https://user-images.githubusercontent.com/88722745/187083816-c5617716-4da4-474f-b7e0-b46e767ab9e1.png">
 
-    <h4 align="left"> 🥇TicTacToe🥇</h4> 
+   <h4 align="left"> 🥇TicTacToe🥇</h4> 
     
    ***Google Play Store Link = https://play.google.com/store/apps/details?id=com.cemsavas.InvincibleXOX
    
    <img width="200" src="https://user-images.githubusercontent.com/88722745/187083937-2f77ae36-d5a2-4b47-b538-c52802f07696.png">
       
-    <h4 align="left"> 🥇Favpet🥇</h4> 
+   <h4 align="left"> 🥇Favpet🥇</h4> 
     
    ***Google Play Store Link = https://play.google.com/store/apps/details?id=com.FavPet.CemSavas
    
