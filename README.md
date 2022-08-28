@@ -2,12 +2,12 @@
  
  <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
- <h2 align="left">🎤🎙PROFİLE</h2>
+ <h2 align="left">🎙PROFİLE</h2>
 
 - 👋 Hi, I’m Cem savas
 - 👀 I’m passionate Android developer
 - ✍ I'm Electrical & Electronics Engineer
-- 👔 I'm developing and publishing my own apps on Play Store
+- 👨‍💻 I'm developing and publishing my own apps on Play Store
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on companies who need android developer
 - 👨‍👩‍👦 I love spending time with my family
