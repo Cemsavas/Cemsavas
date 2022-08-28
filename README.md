@@ -29,6 +29,7 @@
     
 ![Adsız3](https://user-images.githubusercontent.com/88722745/186403331-10801d51-04a7-4db2-8552-ba76ea7fc41e.png)
 
+ <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/88722745/186403331-10801d51-04a7-4db2-8552-ba76ea7fc41e.png">
     
   <h4 align="left"> 🥇Güneş Paneli Hesapla PRO🥇</h4> 
     
