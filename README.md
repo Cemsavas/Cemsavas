@@ -27,7 +27,7 @@
     
    ***Google Play Store Link = https://t.ly/8K4R 
 
-  <img width="200" src="https://user-images.githubusercontent.com/88722745/186403331-10801d51-04a7-4db2-8552-ba76ea7fc41e.png">   <img width="250" src="https://user-images.githubusercontent.com/88722745/187083694-14967463-b299-49ac-a4c2-32ce99590c71.png">
+  <img width="200" src="https://user-images.githubusercontent.com/88722745/186403331-10801d51-04a7-4db2-8552-ba76ea7fc41e.png">   <img width="200" src="https://user-images.githubusercontent.com/88722745/187083694-14967463-b299-49ac-a4c2-32ce99590c71.png">
  
   <h4 align="left"> 🥇Güneş Paneli Hesapla PRO🥇</h4> 
     
