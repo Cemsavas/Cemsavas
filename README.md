@@ -1,6 +1,8 @@
 [![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)](https://rishavchanda.io)
  
- <img align="left" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ 
+ <h2 align="left">🎤🎙PROFİLE</h2>
 
 - 👋 Hi, I’m Cem savas
 - 👀 I’m passionate Android developer
