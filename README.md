@@ -1,4 +1,5 @@
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 👋 Hi, I’m Cem savas
 - 👀 I’m passionate Android developer
 - ✍ I'm Electrical & Electronics Engineer
@@ -7,7 +8,6 @@
 - 💞️ I’m looking to collaborate on companies who need android developer
 - 👨‍👩‍👦 I love spending time with my family
 - 📫 How to reach me Mail: cemsavas1986@hotmail.com 
-
 
 **********************************************************************
 
