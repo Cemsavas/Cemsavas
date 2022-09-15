@@ -35,7 +35,7 @@
    
    <img width="175" src="https://user-images.githubusercontent.com/88722745/186419031-a7dd2d98-9e5b-4908-b28c-ca805f8f7cb3.png">
    
-   <h4 align="left"> 🥇Fast Fat Burner Fitness🥇</h4> 
+   <h4 align="left"> 🥇Loose Weight in 5 Mins🥇</h4> 
     
    ***Google Play Store Link = Coming Soon!
    
