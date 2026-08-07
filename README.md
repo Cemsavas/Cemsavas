@@ -27,7 +27,7 @@
     
    ***Google Play Store Link = [https://short-url.cc/1B9oA]
 
-  <img width="72" height="160" alt="1" src="https://github.com/user-attachments/assets/abbe9031-fe75-47cb-80a6-4d8130027b6a" />
+  <img width="144" height="320" alt="1" src="https://github.com/user-attachments/assets/abbe9031-fe75-47cb-80a6-4d8130027b6a" />
  
       
 <!---
