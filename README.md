@@ -5,7 +5,7 @@
  <h2 align="left">🎙PROFİLE</h2>
 
 - 👋 Hi, I’m Cem savas
-- 👀 I’m passionate Android developer
+- 👀 I’m passionate Developer
 - ✍ I'm Electrical & Electronics Engineer
 - 👨‍💻 I'm developing and publishing my own apps on Play Store
 - 🌱 I’m currently learning Kotlin
@@ -23,9 +23,9 @@
 
   <h3 align="left"> 📱Here are My Apps </h3>
   
-  <h4 align="left"> 🥇Güneş Paneli Hesapla🥇</h4> 
+  <h4 align="left"> 🥇HotDog Simulator🥇</h4> 
     
-   ***Google Play Store Link = https://t.ly/8K4R 
+   ***Google Play Store Link = (https://short-url.cc/1B9oA) 
 
   <img width="200" src="https://user-images.githubusercontent.com/88722745/186403331-10801d51-04a7-4db2-8552-ba76ea7fc41e.png">
  
