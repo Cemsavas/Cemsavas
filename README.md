@@ -21,13 +21,13 @@
 
   <h2 align="left">👨‍💻PROJECTS</h2>
 
-  <h3 align="left"> 📱Here are My Apps </h3>
+  <h3 align="left"> 📱Here are My Mobile Games </h3>
   
   <h4 align="left"> 🥇HotDog Simulator🥇</h4> 
     
    ***Google Play Store Link = [https://short-url.cc/1B9oA]
 
-  <img width="200" src="https://user-images.githubusercontent.com/88722745/186403331-10801d51-04a7-4db2-8552-ba76ea7fc41e.png">
+  <img width="720" height="1600" alt="1" src="https://github.com/user-attachments/assets/abbe9031-fe75-47cb-80a6-4d8130027b6a" />
  
       
 <!---
